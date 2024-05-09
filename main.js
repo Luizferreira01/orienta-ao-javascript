@@ -14,7 +14,7 @@ class Veiculo {
   
 
     ligar() {
-      throw new Error(' "ligar" ');
+      throw new Error(' ligar ');
     }
   }
   
